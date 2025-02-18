@@ -1,0 +1,4 @@
+ko:
+    welcome_header: 'Hello world!'
+    error.not-found.message: '찾을 수 없습니다.'
+    error.internal-server.message: '일시적인 오류가 발생하였습니다.'
