@@ -1,0 +1,4 @@
+ja_JP:
+    welcome_header: 'Hello world!'
+    error.not-found.message: 見つかりません。
+    error.internal-server.message: 一時的なエラーが発生しました。
